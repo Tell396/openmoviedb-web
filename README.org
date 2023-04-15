@@ -23,12 +23,13 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 * Tasks
-**** Add  ~N~ [2/3]
+**** Add  ~N~ [3/4]
 1) [X] @ADD: Header
-2) [ ] @ADD: Hero section
+2) [X] @ADD: Hero section
 3) [ ] @ADD: Move settings for ChakraUI to ~config.ts~ file
    - [ ] @FIX: filters
 4) [X] @ADD: /Montserrat/ font
+5) [ ] @ADD: Slider for 2-3 movies on hero section
 **** Change / Delete ~N~ [0/1]
 1) [ ] @CHANGE: 
    
